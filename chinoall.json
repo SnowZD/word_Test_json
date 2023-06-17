@@ -1,0 +1,1934 @@
+[
+    {
+        "Quiz": [
+            "el estudiante",
+            "al estudiante"
+        ],
+        "Answer": [
+            "學生(e~)"
+        ]
+    },
+    {
+        "Quiz": [
+            "hoy"
+        ],
+        "Answer": [
+            "今天"
+        ]
+    },
+    {
+        "Quiz": [
+            "el dia"
+        ],
+        "Answer": [
+            "日"
+        ]
+    },
+    {
+        "Quiz": [
+            "la puerta"
+        ],
+        "Answer": [
+            "門"
+        ]
+    },
+    {
+        "Quiz": [
+            "comer"
+        ],
+        "Answer": [
+            "吃"
+        ]
+    },
+    {
+        "Quiz": [
+            "beber"
+        ],
+        "Answer": [
+            "喝"
+        ]
+    },
+    {
+        "Quiz": [
+            "caminar"
+        ],
+        "Answer": [
+            "行走"
+        ]
+    },
+    {
+        "Quiz": [
+            "buscar"
+        ],
+        "Answer": [
+            "找來"
+        ]
+    },
+    {
+        "Quiz": [
+            "abrir"
+        ],
+        "Answer": [
+            "開"
+        ]
+    },
+    {
+        "Quiz": [
+            "la vida"
+        ],
+        "Answer": [
+            "生活(n)"
+        ]
+    },
+    {
+        "Quiz": [
+            "vivir"
+        ],
+        "Answer": [
+            "生活(v)"
+        ]
+    },
+    {
+        "Quiz": [
+            "aprender"
+        ],
+        "Answer": [
+            "學習(to learn)"
+        ]
+    },
+    {
+        "Quiz": [
+            "las agua"
+        ],
+        "Answer": [
+            "水"
+        ]
+    },
+    {
+        "Quiz": [
+            "cocinar"
+        ],
+        "Answer": [
+            "煮"
+        ]
+    },
+    {
+        "Quiz": [
+            "la cena"
+        ],
+        "Answer": [
+            "晚餐"
+        ]
+    },
+    {
+        "Quiz": [
+            "algo"
+        ],
+        "Answer": [
+            "某些東西"
+        ]
+    },
+    {
+        "Quiz": [
+            "el supermercado"
+        ],
+        "Answer": [
+            "超市"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Lunes"
+        ],
+        "Answer": [
+            "星期一"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Martes"
+        ],
+        "Answer": [
+            "星期二"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Miercoles"
+        ],
+        "Answer": [
+            "星期三"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Viernes"
+        ],
+        "Answer": [
+            "星期五"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Sabado"
+        ],
+        "Answer": [
+            "星期六"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Domingo"
+        ],
+        "Answer": [
+            "星期天"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Enero"
+        ],
+        "Answer": [
+            "一月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Febrero"
+        ],
+        "Answer": [
+            "二月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Marzo"
+        ],
+        "Answer": [
+            "三月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Abril"
+        ],
+        "Answer": [
+            "四月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Mayo"
+        ],
+        "Answer": [
+            "五月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Junio"
+        ],
+        "Answer": [
+            "六月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Julio"
+        ],
+        "Answer": [
+            "七月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Agosto"
+        ],
+        "Answer": [
+            "八月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Septiembre"
+        ],
+        "Answer": [
+            "九月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Octubre"
+        ],
+        "Answer": [
+            "十月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Noviembre"
+        ],
+        "Answer": [
+            "十一月"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Diciembre"
+        ],
+        "Answer": [
+            "十二月"
+        ]
+    },
+    {
+        "Quiz": [
+            "cero"
+        ],
+        "Answer": [
+            "零"
+        ]
+    },
+    {
+        "Quiz": [
+            "uno"
+        ],
+        "Answer": [
+            "一"
+        ]
+    },
+    {
+        "Quiz": [
+            "dos"
+        ],
+        "Answer": [
+            "二"
+        ]
+    },
+    {
+        "Quiz": [
+            "tres"
+        ],
+        "Answer": [
+            "三"
+        ]
+    },
+    {
+        "Quiz": [
+            "cuatro"
+        ],
+        "Answer": [
+            "四"
+        ]
+    },
+    {
+        "Quiz": [
+            "cinco"
+        ],
+        "Answer": [
+            "五"
+        ]
+    },
+    {
+        "Quiz": [
+            "seis"
+        ],
+        "Answer": [
+            "六"
+        ]
+    },
+    {
+        "Quiz": [
+            "siete"
+        ],
+        "Answer": [
+            "七"
+        ]
+    },
+    {
+        "Quiz": [
+            "ocho"
+        ],
+        "Answer": [
+            "八"
+        ]
+    },
+    {
+        "Quiz": [
+            "nueve"
+        ],
+        "Answer": [
+            "九"
+        ]
+    },
+    {
+        "Quiz": [
+            "diez"
+        ],
+        "Answer": [
+            "十"
+        ]
+    },
+    {
+        "Quiz": [
+            "veinte"
+        ],
+        "Answer": [
+            "二十"
+        ]
+    },
+    {
+        "Quiz": [
+            "treinta"
+        ],
+        "Answer": [
+            "三十"
+        ]
+    },
+    {
+        "Quiz": [
+            "cuarenta"
+        ],
+        "Answer": [
+            "四十"
+        ]
+    },
+    {
+        "Quiz": [
+            "cincuenta"
+        ],
+        "Answer": [
+            "五十"
+        ]
+    },
+    {
+        "Quiz": [
+            "sesenta"
+        ],
+        "Answer": [
+            "六十"
+        ]
+    },
+    {
+        "Quiz": [
+            "setenta"
+        ],
+        "Answer": [
+            "七十"
+        ]
+    },
+    {
+        "Quiz": [
+            "ochenta"
+        ],
+        "Answer": [
+            "八十"
+        ]
+    },
+    {
+        "Quiz": [
+            "noventa"
+        ],
+        "Answer": [
+            "九十"
+        ]
+    },
+    {
+        "Quiz": [
+            "cien"
+        ],
+        "Answer": [
+            "一百"
+        ]
+    },
+    {
+        "Quiz": [
+            "Chino"
+        ],
+        "Answer": [
+            "中文"
+        ]
+    },
+    {
+        "Quiz": [
+            "Espanol"
+        ],
+        "Answer": [
+            "西班牙文"
+        ]
+    },
+    {
+        "Quiz": [
+            "el aeropuerto"
+        ],
+        "Answer": [
+            "機場"
+        ]
+    },
+    {
+        "Quiz": [
+            "estudiar"
+        ],
+        "Answer": [
+            "學習(to study)"
+        ]
+    },
+    {
+        "Quiz": [
+            "el hospital"
+        ],
+        "Answer": [
+            "醫院"
+        ]
+    },
+    {
+        "Quiz": [
+            "la policia"
+        ],
+        "Answer": [
+            "警察"
+        ]
+    },
+    {
+        "Quiz": [
+            "la oficina"
+        ],
+        "Answer": [
+            "辦公室"
+        ]
+    },
+    {
+        "Quiz": [
+            "la oficina de correos"
+        ],
+        "Answer": [
+            "郵局"
+        ]
+    },
+    {
+        "Quiz": [
+            "la estacion"
+        ],
+        "Answer": [
+            "車站"
+        ]
+    },
+    {
+        "Quiz": [
+            "la estacion de policia"
+        ],
+        "Answer": [
+            "警察局"
+        ]
+    },
+    {
+        "Quiz": [
+            "el autobus"
+        ],
+        "Answer": [
+            "巴士"
+        ]
+    },
+    {
+        "Quiz": [
+            "el tren"
+        ],
+        "Answer": [
+            "火車"
+        ]
+    },
+    {
+        "Quiz": [
+            "el ano"
+        ],
+        "Answer": [
+            "年"
+        ]
+    },
+    {
+        "Quiz": [
+            "el mes"
+        ],
+        "Answer": [
+            "月"
+        ]
+    },
+    {
+        "Quiz": [
+            "la semana"
+        ],
+        "Answer": [
+            "周"
+        ]
+    },
+    {
+        "Quiz": [
+            "comenzar"
+        ],
+        "Answer": [
+            "開始"
+        ]
+    },
+    {
+        "Quiz": [
+            "el Jueves"
+        ],
+        "Answer": [
+            "星期四"
+        ]
+    },
+    {
+        "Quiz": [
+            "conocer"
+        ],
+        "Answer": [
+            "知道(c~)"
+        ]
+    },
+    {
+        "Quiz": [
+            "saber"
+        ],
+        "Answer": [
+            "知道(s~)"
+        ]
+    },
+    {
+        "Quiz": [
+            "creer"
+        ],
+        "Answer": [
+            "相信"
+        ]
+    },
+    {
+        "Quiz": [
+            "dar"
+        ],
+        "Answer": [
+            "給"
+        ]
+    },
+    {
+        "Quiz": [
+            "decir"
+        ],
+        "Answer": [
+            "告訴"
+        ]
+    },
+    {
+        "Quiz": [
+            "encontrar"
+        ],
+        "Answer": [
+            "發現"
+        ]
+    },
+    {
+        "Quiz": [
+            "entender"
+        ],
+        "Answer": [
+            "了解"
+        ]
+    },
+    {
+        "Quiz": [
+            "escribir"
+        ],
+        "Answer": [
+            "寫"
+        ]
+    },
+    {
+        "Quiz": [
+            "por"
+        ],
+        "Answer": [
+            "為了"
+        ]
+    },
+    {
+        "Quiz": [
+            "haber"
+        ],
+        "Answer": [
+            "有"
+        ]
+    },
+    {
+        "Quiz": [
+            "hablar"
+        ],
+        "Answer": [
+            "說"
+        ]
+    },
+    {
+        "Quiz": [
+            "hacer"
+        ],
+        "Answer": [
+            "做"
+        ]
+    },
+    {
+        "Quiz": [
+            "ir"
+        ],
+        "Answer": [
+            "去"
+        ]
+    },
+    {
+        "Quiz": [
+            "la manzana"
+        ],
+        "Answer": [
+            "蘋果"
+        ]
+    },
+    {
+        "Quiz": [
+            "el buzo"
+        ],
+        "Answer": [
+            "潛水員"
+        ]
+    },
+    {
+        "Quiz": [
+            "el herrero",
+            "la herrera"
+        ],
+        "Answer": [
+            "鐵匠"
+        ]
+    },
+    {
+        "Quiz": [
+            "el oficio"
+        ],
+        "Answer": [
+            "工作"
+        ]
+    },
+    {
+        "Quiz": [
+            "el tesoro"
+        ],
+        "Answer": [
+            "寶藏"
+        ]
+    },
+    {
+        "Quiz": [
+            "el pecio"
+        ],
+        "Answer": [
+            "沈船"
+        ]
+    },
+    {
+        "Quiz": [
+            "el bote"
+        ],
+        "Answer": [
+            "船"
+        ]
+    },
+    {
+        "Quiz": [
+            "la quimica"
+        ],
+        "Answer": [
+            "化學"
+        ]
+    },
+    {
+        "Quiz": [
+            "el alumno",
+            "la alumna"
+        ],
+        "Answer": [
+            "學生(a~)"
+        ]
+    },
+    {
+        "Quiz": [
+            "la explicacion"
+        ],
+        "Answer": [
+            "解釋"
+        ]
+    },
+    {
+        "Quiz": [
+            "el profesor"
+        ],
+        "Answer": [
+            "教授"
+        ]
+    },
+    {
+        "Quiz": [
+            "este es"
+        ],
+        "Answer": [
+            "這是"
+        ]
+    },
+    {
+        "Quiz": [
+            "eso es"
+        ],
+        "Answer": [
+            "那是"
+        ]
+    },
+    {
+        "Quiz": [
+            "jugar"
+        ],
+        "Answer": [
+            "玩"
+        ]
+    },
+    {
+        "Quiz": [
+            "cada"
+        ],
+        "Answer": [
+            "每個"
+        ]
+    },
+    {
+        "Quiz": [
+            "leer"
+        ],
+        "Answer": [
+            "讀"
+        ]
+    },
+    {
+        "Quiz": [
+            "llamar"
+        ],
+        "Answer": [
+            "叫"
+        ]
+    },
+    {
+        "Quiz": [
+            "la factura"
+        ],
+        "Answer": [
+            "帳單"
+        ]
+    },
+    {
+        "Quiz": [
+            "llegar"
+        ],
+        "Answer": [
+            "到達"
+        ]
+    },
+    {
+        "Quiz": [
+            "mirar"
+        ],
+        "Answer": [
+            "注視"
+        ]
+    },
+    {
+        "Quiz": [
+            "necesitar"
+        ],
+        "Answer": [
+            "必須"
+        ]
+    },
+    {
+        "Quiz": [
+            "pagar"
+        ],
+        "Answer": [
+            "付"
+        ]
+    },
+    {
+        "Quiz": [
+            "pedir"
+        ],
+        "Answer": [
+            "要求"
+        ]
+    },
+    {
+        "Quiz": [
+            "pensar"
+        ],
+        "Answer": [
+            "想"
+        ]
+    },
+    {
+        "Quiz": [
+            "poder"
+        ],
+        "Answer": [
+            "能"
+        ]
+    },
+    {
+        "Quiz": [
+            "poner"
+        ],
+        "Answer": [
+            "放置"
+        ]
+    },
+    {
+        "Quiz": [
+            "preferir"
+        ],
+        "Answer": [
+            "提供"
+        ]
+    },
+    {
+        "Quiz": [
+            "quedar"
+        ],
+        "Answer": [
+            "停留"
+        ]
+    },
+    {
+        "Quiz": [
+            "querer"
+        ],
+        "Answer": [
+            "想要"
+        ]
+    },
+    {
+        "Quiz": [
+            "mismo"
+        ],
+        "Answer": [
+            "相同"
+        ]
+    },
+    {
+        "Quiz": [
+            "salir"
+        ],
+        "Answer": [
+            "離開"
+        ]
+    },
+    {
+        "Quiz": [
+            "sentarse"
+        ],
+        "Answer": [
+            "坐下"
+        ]
+    },
+    {
+        "Quiz": [
+            "sentir"
+        ],
+        "Answer": [
+            "抱歉"
+        ]
+    },
+    {
+        "Quiz": [
+            "el pelota"
+        ],
+        "Answer": [
+            "球"
+        ]
+    },
+    {
+        "Quiz": [
+            "la meta"
+        ],
+        "Answer": [
+            "目標"
+        ]
+    },
+    {
+        "Quiz": [
+            "tomar"
+        ],
+        "Answer": [
+            "拿"
+        ]
+    },
+    {
+        "Quiz": [
+            "trabajar"
+        ],
+        "Answer": [
+            "上班"
+        ]
+    },
+    {
+        "Quiz": [
+            "traer"
+        ],
+        "Answer": [
+            "攜帶"
+        ]
+    },
+    {
+        "Quiz": [
+            "usar"
+        ],
+        "Answer": [
+            "使用"
+        ]
+    },
+    {
+        "Quiz": [
+            "venir"
+        ],
+        "Answer": [
+            "來"
+        ]
+    },
+    {
+        "Quiz": [
+            "ver"
+        ],
+        "Answer": [
+            "看"
+        ]
+    },
+    {
+        "Quiz": [
+            "viajar"
+        ],
+        "Answer": [
+            "旅行"
+        ]
+    },
+    {
+        "Quiz": [
+            "volver"
+        ],
+        "Answer": [
+            "返回"
+        ]
+    },
+    {
+        "Quiz": [
+            "el bolso",
+            "la bolsa"
+        ],
+        "Answer": [
+            "包"
+        ]
+    },
+    {
+        "Quiz": [
+            "cambiar"
+        ],
+        "Answer": [
+            "更換"
+        ]
+    },
+    {
+        "Quiz": [
+            "el computadora"
+        ],
+        "Answer": [
+            "電腦"
+        ]
+    },
+    {
+        "Quiz": [
+            "el vaso"
+        ],
+        "Answer": [
+            "玻璃"
+        ]
+    },
+    {
+        "Quiz": [
+            "mayor"
+        ],
+        "Answer": [
+            "年老的"
+        ]
+    },
+    {
+        "Quiz": [
+            "el hombre"
+        ],
+        "Answer": [
+            "男人"
+        ]
+    },
+    {
+        "Quiz": [
+            "la animal"
+        ],
+        "Answer": [
+            "動物"
+        ]
+    },
+    {
+        "Quiz": [
+            "la madre"
+        ],
+        "Answer": [
+            "媽媽"
+        ]
+    },
+    {
+        "Quiz": [
+            "el mundo"
+        ],
+        "Answer": [
+            "世界"
+        ]
+    },
+    {
+        "Quiz": [
+            "el coche"
+        ],
+        "Answer": [
+            "車"
+        ]
+    },
+    {
+        "Quiz": [
+            "el padre"
+        ],
+        "Answer": [
+            "爸爸"
+        ]
+    },
+    {
+        "Quiz": [
+            "fin"
+        ],
+        "Answer": [
+            "結束"
+        ]
+    },
+    {
+        "Quiz": [
+            "caro"
+        ],
+        "Answer": [
+            "昂貴的"
+        ]
+    },
+    {
+        "Quiz": [
+            "rico"
+        ],
+        "Answer": [
+            "富有的"
+        ]
+    },
+    {
+        "Quiz": [
+            "dificil"
+        ],
+        "Answer": [
+            "困難的"
+        ]
+    },
+    {
+        "Quiz": [
+            "duele"
+        ],
+        "Answer": [
+            "受傷"
+        ]
+    },
+    {
+        "Quiz": [
+            "la espalda"
+        ],
+        "Answer": [
+            "背(n)"
+        ]
+    },
+    {
+        "Quiz": [
+            "primer"
+        ],
+        "Answer": [
+            "第一"
+        ]
+    },
+    {
+        "Quiz": [
+            "el vino"
+        ],
+        "Answer": [
+            "紅酒"
+        ]
+    },
+    {
+        "Quiz": [
+            "el nombre"
+        ],
+        "Answer": [
+            "名字"
+        ]
+    },
+    {
+        "Quiz": [
+            "la linea"
+        ],
+        "Answer": [
+            "線"
+        ]
+    },
+    {
+        "Quiz": [
+            "la cosa"
+        ],
+        "Answer": [
+            "事情"
+        ]
+    },
+    {
+        "Quiz": [
+            "el aire"
+        ],
+        "Answer": [
+            "空氣"
+        ]
+    },
+    {
+        "Quiz": [
+            "el telefono"
+        ],
+        "Answer": [
+            "電話"
+        ]
+    },
+    {
+        "Quiz": [
+            "importante"
+        ],
+        "Answer": [
+            "重要的"
+        ]
+    },
+    {
+        "Quiz": [
+            "el numero"
+        ],
+        "Answer": [
+            "數字"
+        ]
+    },
+    {
+        "Quiz": [
+            "famosa"
+        ],
+        "Answer": [
+            "知名的"
+        ]
+    },
+    {
+        "Quiz": [
+            "favorita"
+        ],
+        "Answer": [
+            "最喜愛的"
+        ]
+    },
+    {
+        "Quiz": [
+            "la palabra"
+        ],
+        "Answer": [
+            "字"
+        ]
+    },
+    {
+        "Quiz": [
+            "la lista"
+        ],
+        "Answer": [
+            "清單"
+        ]
+    },
+    {
+        "Quiz": [
+            "la tierra"
+        ],
+        "Answer": [
+            "地球"
+        ]
+    },
+    {
+        "Quiz": [
+            "la cabeza"
+        ],
+        "Answer": [
+            "頭"
+        ]
+    },
+    {
+        "Quiz": [
+            "la pagina"
+        ],
+        "Answer": [
+            "頁"
+        ]
+    },
+    {
+        "Quiz": [
+            "cerrar"
+        ],
+        "Answer": [
+            "關閉"
+        ]
+    },
+    {
+        "Quiz": [
+            "la television"
+        ],
+        "Answer": [
+            "電視"
+        ]
+    },
+    {
+        "Quiz": [
+            "el computadora portatil"
+        ],
+        "Answer": [
+            "筆電"
+        ]
+    },
+    {
+        "Quiz": [
+            "el frigorifico"
+        ],
+        "Answer": [
+            "冰箱"
+        ]
+    },
+    {
+        "Quiz": [
+            "el hermano"
+        ],
+        "Answer": [
+            "兄弟"
+        ]
+    },
+    {
+        "Quiz": [
+            "la hermana"
+        ],
+        "Answer": [
+            "姊妹"
+        ]
+    },
+    {
+        "Quiz": [
+            "romper"
+        ],
+        "Answer": [
+            "打破"
+        ]
+    },
+    {
+        "Quiz": [
+            "el ventilador"
+        ],
+        "Answer": [
+            "風扇"
+        ]
+    },
+    {
+        "Quiz": [
+            "la lavadora"
+        ],
+        "Answer": [
+            "洗衣機"
+        ]
+    },
+    {
+        "Quiz": [
+            "el drama"
+        ],
+        "Answer": [
+            "戲劇"
+        ]
+    },
+    {
+        "Quiz": [
+            "el clima"
+        ],
+        "Answer": [
+            "氣候"
+        ]
+    },
+    {
+        "Quiz": [
+            "la foto"
+        ],
+        "Answer": [
+            "照片"
+        ]
+    },
+    {
+        "Quiz": [
+            "la mano"
+        ],
+        "Answer": [
+            "手"
+        ]
+    },
+    {
+        "Quiz": [
+            "la moto"
+        ],
+        "Answer": [
+            "摩托車"
+        ]
+    },
+    {
+        "Quiz": [
+            "la radio"
+        ],
+        "Answer": [
+            "收音機"
+        ]
+    },
+    {
+        "Quiz": [
+            "la clase"
+        ],
+        "Answer": [
+            "班級"
+        ]
+    },
+    {
+        "Quiz": [
+            "el conjunto"
+        ],
+        "Answer": [
+            "群體"
+        ]
+    },
+    {
+        "Quiz": [
+            "el equipo"
+        ],
+        "Answer": [
+            "團隊"
+        ]
+    },
+    {
+        "Quiz": [
+            "la familia"
+        ],
+        "Answer": [
+            "家庭"
+        ]
+    },
+    {
+        "Quiz": [
+            "el grupo"
+        ],
+        "Answer": [
+            "群組"
+        ]
+    },
+    {
+        "Quiz": [
+            "la primavera"
+        ],
+        "Answer": [
+            "春天"
+        ]
+    },
+    {
+        "Quiz": [
+            "el verano"
+        ],
+        "Answer": [
+            "夏天"
+        ]
+    },
+    {
+        "Quiz": [
+            "el otono"
+        ],
+        "Answer": [
+            "秋天"
+        ]
+    },
+    {
+        "Quiz": [
+            "el invierno"
+        ],
+        "Answer": [
+            "冬天"
+        ]
+    },
+    {
+        "Quiz": [
+            "la lluvia"
+        ],
+        "Answer": [
+            "雨"
+        ]
+    },
+    {
+        "Quiz": [
+            "la nieve"
+        ],
+        "Answer": [
+            "雪"
+        ]
+    },
+    {
+        "Quiz": [
+            "el medico"
+        ],
+        "Answer": [
+            "醫生"
+        ]
+    },
+    {
+        "Quiz": [
+            "el dentista"
+        ],
+        "Answer": [
+            "牙醫"
+        ]
+    },
+    {
+        "Quiz": [
+            "el personal"
+        ],
+        "Answer": [
+            "工作人員"
+        ]
+    },
+    {
+        "Quiz": [
+            "la series"
+        ],
+        "Answer": [
+            "系列"
+        ]
+    },
+    {
+        "Quiz": [
+            "el arboles"
+        ],
+        "Answer": [
+            "樹"
+        ]
+    },
+    {
+        "Quiz": [
+            "el arroz"
+        ],
+        "Answer": [
+            "飯"
+        ]
+    },
+    {
+        "Quiz": [
+            "el calor"
+        ],
+        "Answer": [
+            "熱"
+        ]
+    },
+    {
+        "Quiz": [
+            "el camarero"
+        ],
+        "Answer": [
+            "服務生"
+        ]
+    },
+    {
+        "Quiz": [
+            "la casa"
+        ],
+        "Answer": [
+            "房子"
+        ]
+    },
+    {
+        "Quiz": [
+            "el cerdo"
+        ],
+        "Answer": [
+            "豬"
+        ]
+    },
+    {
+        "Quiz": [
+            "la ciudad"
+        ],
+        "Answer": [
+            "城市"
+        ]
+    },
+    {
+        "Quiz": [
+            "el cumpleanos"
+        ],
+        "Answer": [
+            "生日"
+        ]
+    },
+    {
+        "Quiz": [
+            "el dolor"
+        ],
+        "Answer": [
+            "疼痛"
+        ]
+    },
+    {
+        "Quiz": [
+            "la esperanza"
+        ],
+        "Answer": [
+            "希望"
+        ]
+    },
+    {
+        "Quiz": [
+            "la fiesta"
+        ],
+        "Answer": [
+            "派對"
+        ]
+    },
+    {
+        "Quiz": [
+            "la lampara"
+        ],
+        "Answer": [
+            "燈"
+        ]
+    },
+    {
+        "Quiz": [
+            "el llaves"
+        ],
+        "Answer": [
+            "鑰匙"
+        ]
+    },
+    {
+        "Quiz": [
+            "el deporte"
+        ],
+        "Answer": [
+            "運動"
+        ]
+    },
+    {
+        "Quiz": [
+            "el horario"
+        ],
+        "Answer": [
+            "行程"
+        ]
+    },
+    {
+        "Quiz": [
+            "el fuego"
+        ],
+        "Answer": [
+            "火"
+        ]
+    },
+    {
+        "Quiz": [
+            "el hielo"
+        ],
+        "Answer": [
+            "冰"
+        ]
+    },
+    {
+        "Quiz": [
+            "el jefe"
+        ],
+        "Answer": [
+            "廚師"
+        ]
+    },
+    {
+        "Quiz": [
+            "la pregunta"
+        ],
+        "Answer": [
+            "問題"
+        ]
+    },
+    {
+        "Quiz": [
+            "la respuesta"
+        ],
+        "Answer": [
+            "答案"
+        ]
+    },
+    {
+        "Quiz": [
+            "rapido"
+        ],
+        "Answer": [
+            "快的"
+        ]
+    },
+    {
+        "Quiz": [
+            "lento"
+        ],
+        "Answer": [
+            "慢的"
+        ]
+    },
+    {
+        "Quiz": [
+            "rojo"
+        ],
+        "Answer": [
+            "紅色"
+        ]
+    },
+    {
+        "Quiz": [
+            "naranja"
+        ],
+        "Answer": [
+            "橘子"
+        ]
+    },
+    {
+        "Quiz": [
+            "amarillo"
+        ],
+        "Answer": [
+            "黃色"
+        ]
+    },
+    {
+        "Quiz": [
+            "verde"
+        ],
+        "Answer": [
+            "綠色"
+        ]
+    },
+    {
+        "Quiz": [
+            "azul"
+        ],
+        "Answer": [
+            "藍色"
+        ]
+    },
+    {
+        "Quiz": [
+            "morado"
+        ],
+        "Answer": [
+            "紫色"
+        ]
+    },
+    {
+        "Quiz": [
+            "negro"
+        ],
+        "Answer": [
+            "黑色"
+        ]
+    },
+    {
+        "Quiz": [
+            "blanco"
+        ],
+        "Answer": [
+            "白色"
+        ]
+    },
+    {
+        "Quiz": [
+            "el sofa"
+        ],
+        "Answer": [
+            "沙發"
+        ]
+    },
+    {
+        "Quiz": [
+            "derecho"
+        ],
+        "Answer": [
+            "右"
+        ]
+    },
+    {
+        "Quiz": [
+            "lzquierdo"
+        ],
+        "Answer": [
+            "左"
+        ]
+    },
+    {
+        "Quiz": [
+            "abajo"
+        ],
+        "Answer": [
+            "下"
+        ]
+    },
+    {
+        "Quiz": [
+            "hasta"
+        ],
+        "Answer": [
+            "上"
+        ]
+    },
+    {
+        "Quiz": [
+            "mi"
+        ],
+        "Answer": [
+            "我的"
+        ]
+    },
+    {
+        "Quiz": [
+            "nuestro"
+        ],
+        "Answer": [
+            "我們的"
+        ]
+    },
+    {
+        "Quiz": [
+            "la habitacion"
+        ],
+        "Answer": [
+            "房間"
+        ]
+    },
+    {
+        "Quiz": [
+            "el habito"
+        ],
+        "Answer": [
+            "習慣"
+        ]
+    },
+    {
+        "Quiz": [
+            "la silla"
+        ],
+        "Answer": [
+            "椅子"
+        ]
+    },
+    {
+        "Quiz": [
+            "la mesa"
+        ],
+        "Answer": [
+            "桌子"
+        ]
+    },
+    {
+        "Quiz": [
+            "el escritorio"
+        ],
+        "Answer": [
+            "書桌"
+        ]
+    },
+    {
+        "Quiz": [
+            "la basura"
+        ],
+        "Answer": [
+            "垃圾"
+        ]
+    },
+    {
+        "Quiz": [
+            "el pais"
+        ],
+        "Answer": [
+            "國家"
+        ]
+    },
+    {
+        "Quiz": [
+            "la bicicleta"
+        ],
+        "Answer": [
+            "腳踏車"
+        ]
+    },
+    {
+        "Quiz": [
+            "el tio"
+        ],
+        "Answer": [
+            "叔叔"
+        ]
+    },
+    {
+        "Quiz": [
+            "la prueba"
+        ],
+        "Answer": [
+            "考試"
+        ]
+    },
+    {
+        "Quiz": [
+            "la practica"
+        ],
+        "Answer": [
+            "練習"
+        ]
+    },
+    {
+        "Quiz": [
+            "el baloncesto"
+        ],
+        "Answer": [
+            "籃球"
+        ]
+    },
+    {
+        "Quiz": [
+            "el beisol"
+        ],
+        "Answer": [
+            "棒球"
+        ]
+    }
+]

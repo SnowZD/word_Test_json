@@ -1,0 +1,42 @@
+[
+    {
+        "Quiz": [
+            "yo"
+        ],
+        "Answer": [
+            "estoy"
+        ]
+    },
+    {
+        "Quiz": [
+            "tu"
+        ],
+        "Answer": [
+            "estas"
+        ]
+    },
+    {
+        "Quiz": [
+            "el/ella"
+        ],
+        "Answer": [
+            "esta"
+        ]
+    },
+    {
+        "Quiz": [
+            "nosotros"
+        ],
+        "Answer": [
+            "estamos"
+        ]
+    },
+    {
+        "Quiz": [
+            "ellos/ellas/usted"
+        ],
+        "Answer": [
+            "estan"
+        ]
+    }
+]

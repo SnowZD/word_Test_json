@@ -118,6 +118,7 @@ def Start():
     t = Timer(0, timer_counter)
     m = 0
     t.start()
+    startbutton.config(state=DISABLED)
     ShowQuiz()
 
 
@@ -176,7 +177,8 @@ def ShowQuiz():
 
 
 def input():
-    global ChangeexamQuiz, ChangeexamAnswer, WordQuiz, WordAnswer, Wrong, Right
+    global ChangeexamQuiz, ChangeexamAnswer, WordQuiz, WordAnswer, Wrong, Right, Change
+    Change = []
     WordQuiz = []
     WordAnswer = []
     Wrong = []
@@ -214,6 +216,7 @@ def Readjson():
     if examdata != "":
         input()
         resetbutton.config(state=NORMAL)
+        startbutton.config(state=NORMAL)
 
 
 def Reset():
